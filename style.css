@@ -1,0 +1,46 @@
+body {
+    padding: 5% 10%;
+    font-size: 2rem;
+    text-align: center;
+    background-color: pink;
+    background-image: url('https://i.pinimg.com/736x/0b/d3/ce/0bd3cefd74bfabbdf75e3673c8763511.jpg');
+   background-repeat: no-repeat;
+   background-size: contain;
+
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h3 {
+    font-size: 2rem;
+    font-style: italic;
+    margin-top: -10px;
+    color: rgb(203, 100, 117);
+}
+
+
+table {
+   justify-content: center;
+   align-content: center;
+   margin-top: -30px;
+   font-size: 1.5rem;
+   margin-left: 450px;
+   margin-right: 450px;
+   font-weight: 100;
+}
+
+th {
+    padding: 60px;
+    padding-bottom: 10px;
+    
+}
+
+td {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+}
+}
